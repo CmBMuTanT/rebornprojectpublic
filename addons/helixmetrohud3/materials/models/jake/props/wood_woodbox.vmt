@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jake/props/wood_woodbox"
+	"$surfaceprop" "wood"
+}

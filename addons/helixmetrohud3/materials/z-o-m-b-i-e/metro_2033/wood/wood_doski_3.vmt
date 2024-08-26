@@ -1,0 +1,10 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/metro_2033/wood/wood_doski_3"
+	//"$bumpmap" "z-o-m-b-i-e/metro_2033/wood/wood_doski_3_norm"
+	"$surfaceprop" "wood"
+	"$detail" "z-o-m-b-i-e/metro_2033/det/det_wood"
+	"$detailscale" "6.00"
+	"$detailblendfactor" "0.8"
+	"$detailblendmode" "0"
+}

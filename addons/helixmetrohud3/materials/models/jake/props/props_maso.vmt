@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jake/props/props_maso"
+	"$surfaceprop" "plastic"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jake/props/metal_corr_dsc_snow"
+	"$surfaceprop" "metal"
+}

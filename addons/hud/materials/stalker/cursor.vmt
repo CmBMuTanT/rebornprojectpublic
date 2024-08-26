@@ -1,0 +1,17 @@
+
+UnlitGeneric
+{
+
+	$basetexture			stalker/cursor
+	$translucent			2
+	
+	Proxies
+	{
+		AnimatedTexture
+		{
+			animatedTextureVar			$basetexture
+			animatedTextureFrameNumVar	$frame
+			animatedTextureFrameRate	12
+		}
+	}
+}

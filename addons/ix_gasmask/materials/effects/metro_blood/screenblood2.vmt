@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "effects/metro_blood/screenblood2"
+	"$nolod" 1
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}
+

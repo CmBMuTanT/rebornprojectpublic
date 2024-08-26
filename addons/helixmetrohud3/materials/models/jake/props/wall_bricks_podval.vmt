@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jake/props/wall_bricks_podval"
+	"$surfaceprop" "wood"
+}

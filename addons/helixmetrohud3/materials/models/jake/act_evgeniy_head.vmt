@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jake/act_evgeniy_head"
+	"$bumpmap" "models/jake/act_evgeniy_head_bump"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jake/props/veh_vagon_metro_022"
+	"$surfaceprop" "metal"
+}

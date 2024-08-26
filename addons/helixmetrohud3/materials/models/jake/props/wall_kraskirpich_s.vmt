@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jake/props/wall_kraskirpich_s"
+	"$surfaceprop" "metal"
+}

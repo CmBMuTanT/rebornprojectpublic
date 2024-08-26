@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "metro_redux/weapons/ognemet/wpn_helsing"
+	"$bumpmap" "metro_redux/weapons/ognemet/wpn_helsing_norm"
+}

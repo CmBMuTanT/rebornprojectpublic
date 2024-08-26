@@ -1,0 +1,16 @@
+UnlitGeneric
+{
+
+	$basetexture			stalker/crosshair
+	$translucent			2
+	
+	Proxies
+	{
+		AnimatedTexture
+		{
+			animatedTextureVar			$basetexture
+			animatedTextureFrameNumVar	$frame
+			animatedTextureFrameRate	12
+		}
+	}
+}

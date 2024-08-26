@@ -1,0 +1,11 @@
+ITEM.name = "Патроны калибра «7.62x54 мм»"
+ITEM.model = "models/kek1ch/ammo_762x54_7h1.mdl"
+ITEM.ammo = "SniperPenetratedRound" -- type of the ammo
+ITEM.ammoAmount = 24 -- amount of the ammo
+ITEM.category = "[REBORN] AMMO"
+ITEM.description = "Унитарный винтовочный патрон с гильзой с выступающей закраиной размерностью 7,62 × 53,72 мм, используется и применяется в большей своей мере на снайперских винтовках среднего типа. Производство патрон данного калибра отлажено по всему Московскому метрополитену, посему проблем с поиском и сбытом этих патрон возникнуть не должно.."
+ITEM.classes = {CLASS_EOW}
+ITEM.price = 5
+ITEM.flag = "V"
+ITEM.bDropOnDeath = true
+ITEM.weight = 0.8

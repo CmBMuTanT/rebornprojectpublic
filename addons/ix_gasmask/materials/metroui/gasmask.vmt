@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "metroui/gasmask"
+	"$nolod" 1
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}
+

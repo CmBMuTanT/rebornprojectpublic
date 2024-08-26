@@ -1,0 +1,11 @@
+ITEM.name = "Патроны калибра «12.7x108 мм»"
+ITEM.model = "models/kek1ch/ammo_762x25_ps.mdl"
+ITEM.ammo = "smg1" -- type of the ammo
+ITEM.ammoAmount = 50 -- amount of the ammo
+ITEM.category = "[REBORN] AMMO"
+ITEM.description = "Крупнокалиберный патрон 12,7х108 мм был создан для пулеметов и тяжелого оружия. Очень редок, и труднонаходим - а его производство отлажено буквально на паре-тройке станций.."
+ITEM.classes = {CLASS_EOW}
+ITEM.price = 5
+ITEM.flag = "V"
+ITEM.bDropOnDeath = true
+ITEM.weight = 1

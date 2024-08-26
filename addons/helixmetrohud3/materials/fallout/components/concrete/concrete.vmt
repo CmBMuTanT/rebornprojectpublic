@@ -1,0 +1,4 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models/fallout/components/concrete/concrete.vtf"
+}

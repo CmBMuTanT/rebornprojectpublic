@@ -1,0 +1,6 @@
+player_manager.AddValidModel( "Pig", "models/TSBB/Animals/Pig.mdl")
+list.Set( "PlayerOptionsModel", "Pig", "models/TSBB/Animals/Pig.mdl")
+player_manager.AddValidModel( "Pig2", "models/TSBB/Animals/Pig2.mdl")
+list.Set( "PlayerOptionsModel", "Pig2", "models/TSBB/Animals/Pig2.mdl")
+player_manager.AddValidModel( "Pig3", "models/TSBB/Animals/Pig3.mdl")
+list.Set( "PlayerOptionsModel", "Pig3", "models/TSBB/Animals/Pig3.mdl")

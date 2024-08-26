@@ -1,0 +1,15 @@
+"Refract"
+{
+	"$model" "0"
+	"$translucent" 1
+	"$refractamount" "2.25"
+	"$refracttint" "[1 1 1]"
+
+	$envmaptint "[1 1 1]"
+
+	"$dudvmap" "effects/ui_maska_moist"
+	"$normalmap" "effects/ui_maska_moist"
+
+	"$bumpframe" "0"
+
+}

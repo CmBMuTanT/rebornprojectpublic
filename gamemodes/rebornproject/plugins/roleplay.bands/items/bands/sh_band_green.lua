@@ -1,0 +1,5 @@
+ITEM.name = "Повязка «Китай-Город»"
+ITEM.model = "models/props_lab/clipboard.mdl"
+ITEM.description = ""
+ITEM.category = "[REBORN] FUNNY"
+ITEM.band = "banditi"

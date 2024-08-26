@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/Jason278/Fallout 3/mutfruit01"
+	"$model" "1"
+                "$halflambert" 1
+                "$translucent" 1
+                 "$alphatest" 1
+}

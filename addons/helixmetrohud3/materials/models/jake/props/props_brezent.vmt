@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jake/props/props_brezent"
+	"$alpha"
+	"$surfaceprop" "wooden"
+}

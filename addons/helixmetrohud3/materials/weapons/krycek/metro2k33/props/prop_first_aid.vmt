@@ -1,0 +1,25 @@
+"Vertexlitgeneric"
+{
+
+
+ $basetexture                "models\weapons\krycek\metro2k33\props\prop_first_aid"
+ $bumpmap                    "models\weapons\krycek\metro2k33\props\prop_first_aid_n"
+ $phongexponenttexture       "models\weapons\krycek\metro2k33\props\prop_first_aid_e"
+//$color2 "[1.5 1.5 1.5]"
+ "$phong" 1
+"$phongboost" "0.3"
+$normalmapalphaphongmask 1
+$PhongAlbedoTint 1
+"$phongtint" "[.25 .25 .05]"
+"$phongfresnelranges" "[2 7 9]"
+$rimlight               1
+$rimmask 1
+$rimboost 255
+	//$rimlightexponent       155
+	$rimlightboost          4	
+
+$envmap                     env_cubemap
+//$basemapalphaenvmapmask 1
+$envmaptint                 "[0.03 0.03 0.022]"
+
+}

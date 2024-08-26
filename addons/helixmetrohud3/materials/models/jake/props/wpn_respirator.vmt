@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jake/props/wpn_respirator"
+	"$surfaceprop" "metal"
+}

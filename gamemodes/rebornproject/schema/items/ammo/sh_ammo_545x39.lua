@@ -1,0 +1,11 @@
+ITEM.name = "Патроны «5.45x39 мм ПП»"
+ITEM.model = "models/kek1ch/ammo_556x45_ap.mdl"
+ITEM.ammo = "ar2" -- type of the ammo
+ITEM.ammoAmount = 31 -- amount of the ammo
+ITEM.category = "[REBORN] AMMO"
+ITEM.description = "Патроны калибра 5.45 - произведённые после Войны в кустарных условиях, значительно уступают довоенным по всем характеристикам кроме доступности, ибо их производство отлажено буквально на всех станциях.."
+ITEM.classes = {CLASS_EOW}
+ITEM.price = 3
+ITEM.flag = "V"
+ITEM.bDropOnDeath = true
+ITEM.weight = 0.5

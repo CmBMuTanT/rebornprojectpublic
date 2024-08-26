@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$baseTexture			"models/fallout/components/ingot/steel.vtf"
+	$color2					"[1 0.78 0.39]"
+}

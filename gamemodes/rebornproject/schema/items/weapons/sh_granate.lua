@@ -1,0 +1,9 @@
+ITEM.name = "Гранаты"
+ITEM.description = "Кустарная ручная граната, в сущности — просто отрезок стальной трубы, начинённый взрывчаткой. Тем не менее, смертельно опасна на небольшом расстоянии."
+ITEM.class = "w_metro_grenade"
+ITEM.weaponCategory = "seks"
+ITEM.category = "[REBORN] FUNNY"
+ITEM.price = 14100
+ITEM.weight = 2.6
+ITEM.model = "models/redux/weapons/pipebomp.mdl"
+ITEM.durability = "100"

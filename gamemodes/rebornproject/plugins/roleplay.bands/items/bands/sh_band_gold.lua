@@ -1,0 +1,5 @@
+ITEM.name = "Подвеска «Золотой патрон»"
+ITEM.model = "models/props_lab/clipboard.mdl"
+ITEM.description = "Крайне красивая подвеска - на которой закреплен патрон без пороха внутри.. Красота!"
+ITEM.category = "[REBORN] FUNNY"
+ITEM.band = "vdnh"

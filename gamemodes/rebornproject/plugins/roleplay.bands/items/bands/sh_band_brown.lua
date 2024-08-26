@@ -1,0 +1,5 @@
+ITEM.name = "Повязка «Проспект Мира»"
+ITEM.model = "models/props_lab/clipboard.mdl"
+ITEM.description = ""
+ITEM.category = "[REBORN] FUNNY"
+ITEM.band = "hanza"

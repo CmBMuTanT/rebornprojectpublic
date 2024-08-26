@@ -1,0 +1,16 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/jake/zenstalker_glass"
+	
+
+// Specularity
+	"$envmap" 			"env_cubemap"
+	"$envmapmask" "models/jake/zenstalker_glass_spec"
+
+
+// Transparency
+
+	
+	
+}
+

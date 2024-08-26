@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "ui/icon_run_empty"
+	"$nolod" 1
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}
+

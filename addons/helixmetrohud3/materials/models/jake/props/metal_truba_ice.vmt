@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jake/props/metal_truba_ice"
+	"$surfaceprop" "metal"
+}

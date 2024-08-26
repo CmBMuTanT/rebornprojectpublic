@@ -1,0 +1,5 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "models/metro2033/medkit/props_first_aid"
+	"$bumpmap" "models/metro2033/medkit/props_first_aid_N"
+}

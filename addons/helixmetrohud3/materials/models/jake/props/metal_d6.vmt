@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jake/props/metal_d6"
+	"$surfaceprop" "metal"
+}

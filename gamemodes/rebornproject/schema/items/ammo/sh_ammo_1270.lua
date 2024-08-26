@@ -1,0 +1,11 @@
+ITEM.name = "Пачка дроби «12х70 мм»"
+ITEM.model = "models/kek1ch/ammo_12x70_buck.mdl"
+ITEM.ammo = "buckshot" -- type of the ammo
+ITEM.ammoAmount = 30 -- amount of the ammo
+ITEM.category = "[REBORN] AMMO"
+ITEM.description = "Снаряженные самодельной картечью патроны с видавшими виды картонными гильзами неказисты, но наносят большой урон."
+ITEM.classes = {CLASS_EOW}
+ITEM.price = 3
+ITEM.flag = "V"
+ITEM.bDropOnDeath = true
+ITEM.weight = 0.4

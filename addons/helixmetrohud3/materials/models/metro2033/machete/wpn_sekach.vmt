@@ -1,0 +1,12 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "models\metro2033\machete\wpn_sekach"
+	"$bumpmap" "models\metro2033\machete\wpn_sekach_N"
+"$phong" "1"
+"$phongboost" "0.1"
+"$phongexponent" "1"
+"$phongtint" "[1 .85 .85]"
+"$phongfresnelranges" "[.5 .85 30]"
+"$model" "1"
+"$phongalbedotint" "1"
+}

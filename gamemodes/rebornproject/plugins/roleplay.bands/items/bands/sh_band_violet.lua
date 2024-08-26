@@ -1,0 +1,5 @@
+ITEM.name = "Повязка «Пушкинская»"
+ITEM.model = "models/props_lab/clipboard.mdl"
+ITEM.description = "Фиолетовая повязка."
+ITEM.category = "[REBORN] FUNNY"
+ITEM.band = "reich"

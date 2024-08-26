@@ -1,0 +1,4 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models/fallout/components/nuclear_material/nuclear_material.vtf"
+}

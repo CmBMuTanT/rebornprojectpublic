@@ -1,0 +1,20 @@
+ITEM.name = "Пачка сигарет"
+ITEM.description = "Пачка сигарет.. Если каждый раз недокуривать и затушивать бычок.."
+ITEM.class = "weapon_ciga"
+ITEM.category = "[REBORN] FUNNY"
+ITEM.weaponCategory = "Сигареты"
+ITEM.price = 4100
+ITEM.bDropOnDeath = false
+ITEM.weight = 0.1
+ITEM.width = 1
+ITEM.height = 1
+ITEM.durability = "50"
+ITEM.exRender = true 
+ITEM.model = "models/kek1ch/drink_cigar0.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.iconCam = {
+	pos = Vector(-37.46, -0.58, 733.11),
+	ang = Angle(92.93, 180.84, 0),
+	fov = 0.32
+}

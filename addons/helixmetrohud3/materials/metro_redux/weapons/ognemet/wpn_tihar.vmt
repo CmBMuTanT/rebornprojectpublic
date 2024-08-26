@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "metro_redux/weapons/ognemet/wpn_tihar"
+	"$bumpmap" "metro_redux/weapons/ognemet/wpn_tihar_norm"
+}

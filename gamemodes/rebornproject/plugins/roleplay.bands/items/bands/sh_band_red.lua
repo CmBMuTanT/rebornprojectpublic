@@ -1,0 +1,5 @@
+ITEM.name = "Повязка «Лубянка»"
+ITEM.model = "models/props_lab/clipboard.mdl"
+ITEM.description = ""
+ITEM.category = "[REBORN] FUNNY"
+ITEM.band = "kl"
